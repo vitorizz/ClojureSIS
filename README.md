@@ -4,29 +4,17 @@ FIXME: description
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Ensure Clojure and Java are installed on your system.
+Clone the repository: git clone https://github.com/vitorizz/ClojureSIS.git
+Navigate to the repository directory: cd ClojureSIS
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar ass3-348-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
+Run the application using the Clojure CLI:
+clojure -m ass3-348.core
+Follow the on-screen menu to interact with the system.
 
 ...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
