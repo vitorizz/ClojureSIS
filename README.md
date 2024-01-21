@@ -12,8 +12,6 @@ Run the application using the Clojure CLI:
 clojure -m ass3-348.core
 Follow the on-screen menu to interact with the system.
 
-...
-
 ## License
 
 Copyright © 2023 FIXME
