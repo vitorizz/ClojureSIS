@@ -1,4 +1,17 @@
-# ass3-348
+# ClojureSIS - Clojure Student Information System
+
+ClojureSIS is a comprehensive Student Information System (SIS) built using the Clojure programming language. It's designed to manage and display academic data efficiently, making it an essential tool for educational institutions.
+
+## Features
+
+Student Management: Keep track of student details including ID, name, address, and phone number.
+Course Management: Manage course information such as course ID, name, number, credits, and description.
+Grade Management: Record and link student grades with their respective courses, including semester details.
+Data Integrity: Utilize Clojure's spec library for defining and validating data schemas.
+Data Loading: Easily load and update data through text files.
+Academic Record Display: View lists of students, courses, and grades.
+Student Record Analysis: Display individual student records, calculate GPAs, and compute course averages.
+User-Friendly Menu: Navigate the system with an easy-to-use interface.
 
 ## Installation
 
@@ -12,17 +25,4 @@ Run the application using the Clojure CLI:
 clojure -m ass3-348.core
 Follow the on-screen menu to interact with the system.
 
-## License
 
-Copyright © 2023 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
