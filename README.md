@@ -1,7 +1,5 @@
 # ass3-348
 
-FIXME: description
-
 ## Installation
 
 Ensure Clojure and Java are installed on your system.
